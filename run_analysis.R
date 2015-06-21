@@ -6,7 +6,7 @@
 ## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # Go to the appropriate directory
-setwd("~/Development/R_dir/GetAndCleaningData")
+#setwd("~/Development/R_dir/GetAndCleaningData")
 
 # Read train data
 trainData <- read.table("./UCI HAR Dataset/train/X_train.txt")
